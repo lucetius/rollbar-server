@@ -1,0 +1,1 @@
+Rollbar error reporting for Meteor server side based on thesaucecode:meteor-rollbar.
